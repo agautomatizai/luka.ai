@@ -1,4 +1,5 @@
 # Dashboard de Vendas
+URL projeto: https://agautomatizai.github.io/luka.ai/dashboard.html
 
 ## Objetivo do Dashboard
 O objetivo deste dashboard é fornecer uma visão geral das principais métricas de vendas da empresa, ajudando a identificar tendências e áreas que necessitam de atenção.
